@@ -1,0 +1,14 @@
+a{
+  text-decoration: none;
+}
+.back{
+  left: 0;
+}
+#zl-wrap ul li{
+  font-size: 20px;
+  list-style: none;
+  border-bottom: 1px solid slategray;
+}
+#zl-wrap ul li div{
+  color: royalblue;
+}

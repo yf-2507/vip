@@ -1,0 +1,8 @@
+.study ul{
+  display: flex;
+  flex-flow: row wrap;
+}
+.study ul li{
+  width: 25%;
+  height: 150px;
+}

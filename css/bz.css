@@ -1,0 +1,20 @@
+#choose-wrap li{
+  float: left;
+  width: 20%;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  border: 1px solid slategray;
+  background-color: #eee;
+  font-weight: bold;
+  font-size: 20px;
+}
+#img-wrap{
+  display: flex;
+  flex-flow: row wrap;
+  margin-top: 120px;
+}
+#img-wrap img{
+  flex-shrink: 0;
+  width: 25%;
+}

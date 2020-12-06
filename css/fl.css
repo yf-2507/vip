@@ -1,0 +1,16 @@
+.discounts{
+  display: flex;
+  flex-flow: row wrap;
+}
+.item{
+  text-align: center;
+  width: 25%;
+  border: 1px solid #eee;
+}
+.item img{
+  width: 85%;
+}
+.item .con{
+  font-weight: bold;
+  color: #515151;
+}
